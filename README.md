@@ -5,7 +5,7 @@ Created by using api website https://dictionaryapi.dev/
 
 ==========IMPORTANT==========
 
-To use this project first of all you have to import a json library as a dependency in your IDE(like VS code, IntelljIDE).
+To use this project first of all you have to import a json library["dictionary_cli_java/src/com/company/json.jar"] as a dependency in your IDE(like VS code, IntelljIDE).
 
 
 ![](image/1.png)
